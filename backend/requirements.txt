@@ -3,4 +3,6 @@ uvicorn
 python-multipart
 aiofiles
 requests
-whisper
+yt-dlp
+numpy
+soundfile
