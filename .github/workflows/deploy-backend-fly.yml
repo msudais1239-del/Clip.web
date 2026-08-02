@@ -1,4 +1,4 @@
-Name: Deploy backend to Fly
+name: Deploy backend to Fly
 
 on:
   push:
