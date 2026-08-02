@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+requests
+yt-dlp
+numpy
+soundfile
